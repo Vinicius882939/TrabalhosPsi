@@ -1,3 +1,3 @@
 # TrabalhosPsi
 repositório pra guardar os trabalhos de PSI
-vinicius
+vinicius Tomaz Pereira

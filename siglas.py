@@ -36,3 +36,4 @@ codigo = letra_nome + data + letra_favorita
 # MOSTRAR RESULTADO
 print("-----------------------------------")
 print("Codigo gerado:", codigo)
+
